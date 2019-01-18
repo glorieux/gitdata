@@ -8,7 +8,7 @@ import (
 
 func TestMain(t *testing.T) {
 	t.Skip()
-	fileChanges, err := gitChangesOverTime("https://github.com/TechMantra/gitdata.git")
+	fileChanges, err := gitChangesOverTime("https://github.com/glorieux/gitdata.git")
 	if err != nil {
 		t.Error(err)
 	}
