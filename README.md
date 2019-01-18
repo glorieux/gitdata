@@ -1,5 +1,7 @@
 # Git Data
 
+[![Build Status](https://travis-ci.org/glorieux/gitdata.svg?branch=master)](https://travis-ci.org/glorieux/gitdata)
+
 Gather usage data on Git repositories.
 
 ## Install
