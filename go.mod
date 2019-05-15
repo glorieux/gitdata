@@ -1,4 +1,4 @@
-module glorieux.io/gitdata
+module pkg.glorieux.io/gitdata
 
 require (
 	github.com/fatih/color v1.7.0
